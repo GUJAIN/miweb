@@ -1,0 +1,33 @@
+#titulo {
+    color:rgb(13, 40, 114);
+    background-color: rgb(106, 88, 187);
+    border-radius: 5px;
+    border: 2px black solid ;
+    padding: 50px;
+    padding-block-start: 20px;
+    margin: 50px;
+}
+/*
+maneras de agregar color 
+hexagesimal #f0f0f0; sinedo f el valor mayor y 0 el menor valor. 
+los dos primeros es el rojo luego verde y azul
+ ejemplo   .color { color: #ff0000;   }
+ rgb (255,255,255) rojo verde azul siendo 255 la mayor intensidad
+ ejemplo  .color { color: rgb(255,000,000; } seria un rojo 
+*/
+.grilla {
+    margin: 50px;
+    border-radius: 5px;
+    border: 2px black solid ;
+}
+.titulo2 {
+    color:rgb(13, 40, 114);
+    background-color: rgb(106, 88, 187);
+    margin: 50px;
+   
+}
+/*
+dotted dashed solid double groove ridge inset outset none hidden
+los estilos de bordes mas usados
+*/
+  
